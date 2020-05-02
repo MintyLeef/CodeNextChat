@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994144180938",
+    "firebase_url": "https://codenextchat-ef0e0.firebaseio.com",
+    "project_id": "codenextchat-ef0e0",
+    "storage_bucket": "codenextchat-ef0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994144180938:android:ed371d775f73c07a72b233",
+        "android_client_info": {
+          "package_name": "com.example.codenextchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994144180938-33jl4gv0gd6ptv5f6lo7p46uvnflemla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codenextchat",
+            "certificate_hash": "b6f84b872921b65950f60ab23fddec6ad6331c04"
+          }
+        },
+        {
+          "client_id": "994144180938-drt1o9e4brgu70j84kqkga4hbupu6fm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrTraOZojnXO39o5wBHoYnVbP7baF3sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994144180938-drt1o9e4brgu70j84kqkga4hbupu6fm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
